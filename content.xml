@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260525214653SDMZ0L</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026052521465381FPA3</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SDA. SALIDA PATRIMONIAL AL CASTILLO DE LA YEDRA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Visita guiada al Castillo de la Yedra (Cazorla)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Amelia Agea. Profesora de Geografía e Historia</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Visita guiada al Castillo de la Yedra en la localidad de Cazorla para conocer la época a la que pertenece, la importancia del emplazamiento, la historia y la relación de la localidad con las órdenes cristianas.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779736229686</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1779733191565-hnet3qq13</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.1. INTRODUCCIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1. INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779733191565-hnet3qq13</odePageId>
+      <odeBlockId>block-1779733199139-3wdrwg9fq</odeBlockId>
+      <blockName>Introducción. Descubre la situación de aprendizaje</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779733191565-hnet3qq13</odePageId>
+          <odeBlockId>block-1779733199139-3wdrwg9fq</odeBlockId>
+          <odeIdeviceId>idevice-1779733199137-v6ximw6sm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí encontramos la información sobre la situación de aprendizaje que vamos a desarrollar  en el aula.</p>
+<p><a href="{{context_path}}/content/resources/Salida patrimonial al Castillo de la Yedra (1).pdf" title="Salida patrimonial al Castillo de la Yedra (1).pdf">{{context_path}}/content/resources/Salida patrimonial al Castillo de la Yedra (1).pdf</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779733199137-v6ximw6sm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí encontramos la información sobre la situación de aprendizaje que vamos a desarrollar  en el aula.</p>\n<p><a href=\"{{context_path}}/content/resources/Salida patrimonial al Castillo de la Yedra (1).pdf\" title=\"Salida patrimonial al Castillo de la Yedra (1).pdf\">{{context_path}}/content/resources/Salida patrimonial al Castillo de la Yedra (1).pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779733563547-p9cxr0pqa</odePageId>
+  <odeParentPageId>page-1779733191565-hnet3qq13</odeParentPageId>
+  <pageName>1.1.1. PROTECCIÓN DE DATOS PERSONALES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1.1. PROTECCIÓN DE DATOS PERSONALES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779733563547-p9cxr0pqa</odePageId>
+      <odeBlockId>block-1779733606467-lwg72p47e</odeBlockId>
+      <blockName>Protección de datos personales</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779733563547-p9cxr0pqa</odePageId>
+          <odeBlockId>block-1779733606467-lwg72p47e</odeBlockId>
+          <odeIdeviceId>idevice-1779733606464-it372kfv8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Es importante conocer la protección de datos personales y las garantías de derechos digitales.</p>
+<p><a href="{{context_path}}/content/resources/LICENCIAS Y SEGURIDAD.pdf" title="LICENCIAS Y SEGURIDAD.pdf">{{context_path}}/content/resources/LICENCIAS Y SEGURIDAD.pdf</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779733606464-it372kfv8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es importante conocer la protección de datos personales y las garantías de derechos digitales.</p>\n<p><a href=\"{{context_path}}/content/resources/LICENCIAS Y SEGURIDAD.pdf\" title=\"LICENCIAS Y SEGURIDAD.pdf\">{{context_path}}/content/resources/LICENCIAS Y SEGURIDAD.pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779733729375-gs0u0597w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.2. DESCRIPCIÓN DEL PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.2. DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779733729375-gs0u0597w</odePageId>
+      <odeBlockId>block-1779733795511-vixn80fpc</odeBlockId>
+      <blockName>Descripción del producto final</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779733729375-gs0u0597w</odePageId>
+          <odeBlockId>block-1779733795511-vixn80fpc</odeBlockId>
+          <odeIdeviceId>idevice-1779733795506-3kpxijdzi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El proyecto consiste en la creación de un tríptico en la que el alumnado deberá informar sobre el Castillo de la Yedra, un monumento patrimonial de la localidad. Para ello, utilizarán dos herramientas: Canva y Genially.</p>
+<p>1.Herramientas seleccionadas y objeto de uso: para la realización de este producto final propongo al alumnado el uso de estas dos herramientas:</p>
+<p>Genially: es una herramienta excelenete para crear trípticos, tanto digitales como para impresión. Ofrece plantillas específicas de folletos y trípticos que son 100% personalizables.<br />Canva: es una de las mejores herramientas para diseñar trípticos. Ofrece plantillas gratuitas, editables y permite personalizar textos, colores y fotos.<br />2. Justificación según el nivel de competencia y la edad del alumnado: esta elección está pensada para el alumnado de 2º ESO (13-14 años). Genially provoca en el alumnado un aumento de la motivación, interactividad y un diseño visual atractivo. Y Canva ofrece la creación de infografías, presentaciones y vídeos interactivos. Además, gratuito y seguro, permitiendo el trabajo simultáneo en grupo.</p>
+<p>3. Justificación según el contexto y la disponibilidad de dispositivos en el centro: el uso de estas herramientas se adaptan a nuestro centro.</p>
+<p>Se utilizarán los ordenadores del centro, en concreto, los carros portátiles. La ventaja de Canva es que está 100% en la nube y se adapta a las cuentas de correo corporativo del alumnado. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779733795506-3kpxijdzi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El proyecto consiste en la creación de un tríptico en la que el alumnado deberá informar sobre el Castillo de la Yedra, un monumento patrimonial de la localidad. Para ello, utilizarán dos herramientas: Canva y Genially.</p>\n<p>1.Herramientas seleccionadas y objeto de uso: para la realización de este producto final propongo al alumnado el uso de estas dos herramientas:</p>\n<p>Genially: es una herramienta excelenete para crear trípticos, tanto digitales como para impresión. Ofrece plantillas específicas de folletos y trípticos que son 100% personalizables.<br />Canva: es una de las mejores herramientas para diseñar trípticos. Ofrece plantillas gratuitas, editables y permite personalizar textos, colores y fotos.<br />2. Justificación según el nivel de competencia y la edad del alumnado: esta elección está pensada para el alumnado de 2º ESO (13-14 años). Genially provoca en el alumnado un aumento de la motivación, interactividad y un diseño visual atractivo. Y Canva ofrece la creación de infografías, presentaciones y vídeos interactivos. Además, gratuito y seguro, permitiendo el trabajo simultáneo en grupo.</p>\n<p>3. Justificación según el contexto y la disponibilidad de dispositivos en el centro: el uso de estas herramientas se adaptan a nuestro centro.</p>\n<p>Se utilizarán los ordenadores del centro, en concreto, los carros portátiles. La ventaja de Canva es que está 100% en la nube y se adapta a las cuentas de correo corporativo del alumnado. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779734128621-ditpf4w9h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.3. HERRAMIENTAS CURACIÓN-CONTENIDOS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.3. HERRAMIENTAS CURACIÓN-CONTENIDOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779734128621-ditpf4w9h</odePageId>
+      <odeBlockId>block-1779734135729-q2xudlet4</odeBlockId>
+      <blockName>Herramientas para la organización</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779734128621-ditpf4w9h</odePageId>
+          <odeBlockId>block-1779734135729-q2xudlet4</odeBlockId>
+          <odeIdeviceId>idevice-1779734135727-ck78xwpry</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí tenemos disponibles he<strong>rramientas que nos facilitan la tarea de la organización y gestión de la información</strong>, del aula y de lo relacionado con la unidad y el alumnado. </p>
+<p>Por eso se ha creado un Symbaloo que ayuda a la organización visual con navegadores por tableros visuales compuestos por bloques de colores.</p>
+<p><strong><a href="https://www.symbaloo.com/shared/AAAABjYSRoIAA42ADtLUWg==">https://www.symbaloo.com/shared/AAAABjYSRoIAA42ADtLUWg==</a></strong></p>
+<p>Y un padlet que permite integrar fácilmente textos, imágenes, vídeos de YouTube, documentos en PDF y enlaces web, organizándolo de forma muy visual para el alumnado.</p>
+<p><strong><a href="https://padlet.com/aageama671/introduccion-a-la-europa-medieval-wifglfyjjw75p820">https://padlet.com/aageama671/introduccion-a-la-europa-medieval-wifglfyjjw75p820</a></strong></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779734135727-ck78xwpry","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí tenemos disponibles he<strong>rramientas que nos facilitan la tarea de la organización y gestión de la información</strong>, del aula y de lo relacionado con la unidad y el alumnado. </p>\n<p>Por eso se ha creado un Symbaloo que ayuda a la organización visual con navegadores por tableros visuales compuestos por bloques de colores.</p>\n<p><strong><a href=\"https://www.symbaloo.com/shared/AAAABjYSRoIAA42ADtLUWg==\">https://www.symbaloo.com/shared/AAAABjYSRoIAA42ADtLUWg==</a></strong></p>\n<p>Y un padlet que permite integrar fácilmente textos, imágenes, vídeos de YouTube, documentos en PDF y enlaces web, organizándolo de forma muy visual para el alumnado.</p>\n<p><strong><a href=\"https://padlet.com/aageama671/introduccion-a-la-europa-medieval-wifglfyjjw75p820\">https://padlet.com/aageama671/introduccion-a-la-europa-medieval-wifglfyjjw75p820</a></strong></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779734731285-0at64sodp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.4. LÍNEA TEMPORAL Y TAREAS DEL PROYECTO</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.4. LÍNEA TEMPORAL Y TAREAS DEL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779734731285-0at64sodp</odePageId>
+      <odeBlockId>block-1779734780629-ka5ocw6pd</odeBlockId>
+      <blockName>Línea temporal y tareas del proyecto</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779734731285-0at64sodp</odePageId>
+          <odeBlockId>block-1779734780629-ka5ocw6pd</odeBlockId>
+          <odeIdeviceId>idevice-1779734780623-l78b9xelx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Línea temporal </strong>que permite la organización de las siete sesiones en las que se desarrolla la situación de aprendizaje. Es visual y ayuda a que el alumnado sepa en cada sesión qué tiene que hacer y si lo realiza en forma grupal o individual. </p>
+<p><a href="{{context_path}}/content/resources/Línea temporal para la organización.pdf" title="Línea temporal para la organización.pdf">{{context_path}}/content/resources/Línea temporal para la organización.pdf</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779734780623-l78b9xelx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Línea temporal </strong>que permite la organización de las siete sesiones en las que se desarrolla la situación de aprendizaje. Es visual y ayuda a que el alumnado sepa en cada sesión qué tiene que hacer y si lo realiza en forma grupal o individual. </p>\n<p><a href=\"{{context_path}}/content/resources/Línea temporal para la organización.pdf\" title=\"Línea temporal para la organización.pdf\">{{context_path}}/content/resources/Línea temporal para la organización.pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779734915600-539ycxaft</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.5. CRITERIOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.5. CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779734915600-539ycxaft</odePageId>
+      <odeBlockId>block-1779734992263-cfwwyk931</odeBlockId>
+      <blockName>Criterios de Evaluación</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779734915600-539ycxaft</odePageId>
+          <odeBlockId>block-1779734992263-cfwwyk931</odeBlockId>
+          <odeIdeviceId>idevice-1779734992254-eun24vw4d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Asociamos tareas a criterios de evaluación para tener un seguimiento y un proceso de evaluación de esta situación de aprendizaje.</p>
+<p><a href="{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación.pdf" title="Asociamos tareas a Criterios de evaluación.pdf">{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación.pdf</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779734992254-eun24vw4d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Asociamos tareas a criterios de evaluación para tener un seguimiento y un proceso de evaluación de esta situación de aprendizaje.</p>\n<p><a href=\"{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación.pdf\" title=\"Asociamos tareas a Criterios de evaluación.pdf\">{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación.pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779735163264-tff57z4c8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.6. INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.6. INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779735163264-tff57z4c8</odePageId>
+      <odeBlockId>block-1779735244204-mqf6dnao8</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779735163264-tff57z4c8</odePageId>
+          <odeBlockId>block-1779735244204-mqf6dnao8</odeBlockId>
+          <odeIdeviceId>idevice-1779735244196-ll692mg9w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se muestran dos instrumentos de evaluación diferentes que se van a usar para evaluar al alumnado. Se ha tenido en cuenta qué se evaluará en cada momento y cómo se obtienen esos resultados, para tratar las posibles variables que pudieran darse en con el alumnado en el aula. Así mismo, se tendrá en cuenta la rutina de pensamiento previamente elaborada.</p>
+<p><a href="{{context_path}}/content/resources/Diana de evaluación.pdf" title="Elegimos y creamos los instrumentos de evaluación.pdf">{{context_path}}/content/resources/Diana de evaluación.pdf</a></p>
+<p><a href="{{context_path}}/content/resources/Elegimos y creamos los instrumentos de evaluación.pdf" title="Elegimos y creamos los instrumentos de evaluación.pdf">{{context_path}}/content/resources/Elegimos y creamos los instrumentos de evaluación.pdf</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdPfBIE1mFlP7AMEWQ4gwmy4uq8EEwqFUA7gxMB3tWrsxV64A/viewform">https://docs.google.com/forms/d/e/1FAIpQLSdPfBIE1mFlP7AMEWQ4gwmy4uq8EEwqFUA7gxMB3tWrsxV64A/viewform</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779735244196-ll692mg9w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se muestran dos instrumentos de evaluación diferentes que se van a usar para evaluar al alumnado. Se ha tenido en cuenta qué se evaluará en cada momento y cómo se obtienen esos resultados, para tratar las posibles variables que pudieran darse en con el alumnado en el aula. Así mismo, se tendrá en cuenta la rutina de pensamiento previamente elaborada.</p>\n<p><a href=\"{{context_path}}/content/resources/Diana de evaluación.pdf\" title=\"Elegimos y creamos los instrumentos de evaluación.pdf\">{{context_path}}/content/resources/Diana de evaluación.pdf</a></p>\n<p><a href=\"{{context_path}}/content/resources/Elegimos y creamos los instrumentos de evaluación.pdf\" title=\"Elegimos y creamos los instrumentos de evaluación.pdf\">{{context_path}}/content/resources/Elegimos y creamos los instrumentos de evaluación.pdf</a></p>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdPfBIE1mFlP7AMEWQ4gwmy4uq8EEwqFUA7gxMB3tWrsxV64A/viewform\">https://docs.google.com/forms/d/e/1FAIpQLSdPfBIE1mFlP7AMEWQ4gwmy4uq8EEwqFUA7gxMB3tWrsxV64A/viewform</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779735600533-uranjsjo1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.7. CRÉDITOS</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.7. CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779735600533-uranjsjo1</odePageId>
+      <odeBlockId>block-1779735619006-hb7u7edax</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779735600533-uranjsjo1</odePageId>
+          <odeBlockId>block-1779735619006-hb7u7edax</odeBlockId>
+          <odeIdeviceId>idevice-1779735619003-im37g59u0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoría: Amelia Agea</p>
+<p>Descripción: situación de aprendizaje en la que el alumnado realiza una visita patrimonial al Castillo de la Yedra, en la localidad de Cazorla. El objetivo es la elaboración de un tríptico para la visita y la preparación de la visita guiada que realizará el alumnado. </p>
+<p>Se permite la licencia de uso para el ámbito educativo. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779735619003-im37g59u0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: Amelia Agea</p>\n<p>Descripción: situación de aprendizaje en la que el alumnado realiza una visita patrimonial al Castillo de la Yedra, en la localidad de Cazorla. El objetivo es la elaboración de un tríptico para la visita y la preparación de la visita guiada que realizará el alumnado. </p>\n<p>Se permite la licencia de uso para el ámbito educativo. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779736306283-70nwcbzm7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.8. GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.8. GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779736306283-70nwcbzm7</odePageId>
+      <odeBlockId>block-1779736406870-3yn624s2e</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779736306283-70nwcbzm7</odePageId>
+          <odeBlockId>block-1779736406870-3yn624s2e</odeBlockId>
+          <odeIdeviceId>idevice-1779736406868-564ozm800</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado asociamos tareas a criterios de evaluación. Se relaciona la tarea, los criterios de evaluación, el agrupamiento, el tiempo aproximado que se ha establecido y las herramientas que se le sugieren al alumnado para trabajar en las distintas sesiones. </p>
+<p>Permite establecer una relación de las tareas a los criterios y que el alumnado no se pierda en este proceso de enseñanza-aprendizaje. Es un aprendizaje guiado. <a href="{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación.pdf" title="Asociamos tareas a Criterios de evaluación.pdf">{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación.pdf</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779736406868-564ozm800","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado asociamos tareas a criterios de evaluación. Se relaciona la tarea, los criterios de evaluación, el agrupamiento, el tiempo aproximado que se ha establecido y las herramientas que se le sugieren al alumnado para trabajar en las distintas sesiones. </p>\n<p>Permite establecer una relación de las tareas a los criterios y que el alumnado no se pierda en este proceso de enseñanza-aprendizaje. Es un aprendizaje guiado. <a href=\"{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación.pdf\" title=\"Asociamos tareas a Criterios de evaluación.pdf\">{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación.pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
